@@ -6,9 +6,6 @@ from pm4py.objects.process_tree import semantics
 
 from utilities import get_activity_labels_from_trace, concatenate_traces, trace_to_list_of_str, get_process_tree_height, \
     get_costs_from_alignment, empty_sequence_accepted, __calculate_optimal_alignment, list_of_str_to_trace
-from calculate_a_sa_ea_sets import get_activity_set, get_start_activity_set, get_end_activity_set, \
-    get_start_activity_set_binary_tree, \
-    get_end_activity_set_binary_tree, initialize_a_sa_ea_tau_sets
 from pm4py.objects.log.log import Trace, Event
 from pm4py.objects.petri.align_utils import SKIP
 from pm4py.objects.process_tree.process_tree import ProcessTree
