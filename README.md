@@ -8,7 +8,7 @@ Corresponding author: Daniel Schuster
 ([Mail](mailto:daniel.schuster@fit.fraunhofer.de?subject=github-incremental_a_star_approach))
 
 
-This prototype implementation is using a fork of the [pm4py library](https://pm4py.fit.fraunhofer.de). 
+This prototype implementation is based on the [pm4py library](https://pm4py.fit.fraunhofer.de). 
 
 
 ### Repository Structure
